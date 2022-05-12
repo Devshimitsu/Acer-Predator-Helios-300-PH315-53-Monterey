@@ -71,7 +71,7 @@ If you still want to use an external monitor, you can by a USB 3.0 to HDMI adapt
   sudo pmset -a standby 0
   sudo pmset -a proximitywake 0
   ```
-### Boot Wthout Installation Media
+### Boot Wthout Bootable USB
 
 - Make a partition with name "EFI" of 200 MB in the drive where you have installed the OS.
 - From your Bootable USB copy "EFI" folder and paste it in "EFI" Partition 
