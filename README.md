@@ -45,10 +45,12 @@ If you still want to use an external monitor, you can by a USB 3.0 to HDMI adapt
 
 ### How To Install
 
+- Download <a href="">PH315-53.zip</a>
+- Unzip <a href="">PH315-53.zip</a>
 - Format your USB "non-bootable" using RUFUS and delete any leftover in USB(autoruns).
-- Paste com.apple.recovery.boot & EFI in USB <a href="https://raw.githubusercontent.com/Devshimitsu/Acer-Predator-Helios-300-PH315-53-Monterey/main/Screenshots/3.png">Like This</a>.
+- Copy and Paste "com.apple.recovery.boot" & "EFI" folders into formatted USB <a href="https://raw.githubusercontent.com/Devshimitsu/Acer-Predator-Helios-300-PH315-53-Monterey/main/Screenshots/3.png">Like This</a>.
 - Download [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate unique SMBIOS information. Run it and select Generate SMBIOS, as model sekect MacBookPro16,4.
-- Open config.plist with [ProperTree](https://github.com/corpnewt/ProperTree) and go to platforminfo > Generic. Set MLB( Board Serial), SystemSerialNumber(Serial), and SystemUUID (SmUUID) to generate values.
+- Open EFI/OC/config.plist with [ProperTree](https://github.com/corpnewt/ProperTree) and go to platforminfo > Generic. Set MLB( Board Serial), SystemSerialNumber(Serial), and SystemUUID (SmUUID) to generate values.
 - Boot it!.
 
 ### First-time installation
