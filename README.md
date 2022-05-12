@@ -4,9 +4,9 @@
 
  # Screesnshots
 
- <a href=""> <img src="Screenshots/1.png" alt="dark mode"></a>
+ <a href="https://raw.githubusercontent.com/Devshimitsu/Acer-Predator-Helios-300-PH315-53-Monterey/main/Screenshots/1.png"> <img src="Screenshots/1.png" alt="dark mode"></a>
 
- <a href=""> <img src="Screenshots/2.png" alt="dark mode"></a>
+ <a href="https://raw.githubusercontent.com/Devshimitsu/Acer-Predator-Helios-300-PH315-53-Monterey/main/Screenshots/2.png"> <img src="Screenshots/2.png" alt="dark mode"></a>
 
 ## Configuration
 
@@ -35,8 +35,8 @@
 
 ## What's not working
 
-- [ ] GTX 1650 (macOS does not support recent Nvidia GPUs).
-- [ ] HDMI port (since it's connected to the GTX 1650).
+- [ ] RTX 3060 (macOS does not support recent Nvidia GPUs).
+- [ ] HDMI port (since it's connected to the RTX 3060).
 
 If you still want to use an external monitor, you can by a USB 3.0 to HDMI adapter.
 <a href="https://www.amazon.in/dp/B013G4CJM8/?coliid=I21IXZ0W5ZAFHX&colid=IWBALZYIADBW&psc=0&ref_=lv_ov_lig_dp_it">Amazon.in</a>
