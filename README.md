@@ -8,7 +8,7 @@
 
  <a href="https://raw.githubusercontent.com/Devshimitsu/Acer-Predator-Helios-300-PH315-53-Monterey/main/Screenshots/2.png"> <img src="Screenshots/2.png" alt="dark mode"></a>
  
- <a href="https://raw.githubusercontent.com/Devshimitsu/Acer-Predator-Helios-300-PH315-53-Monterey/main/Screenshots/4.png"> <img src="Screenshots/2.png" alt="dark mode"></a>
+ <a href="https://raw.githubusercontent.com/Devshimitsu/Acer-Predator-Helios-300-PH315-53-Monterey/main/Screenshots/4.png"> <img src="Screenshots/4.png" alt="dark mode"></a>
 
 ## Configuration
 
